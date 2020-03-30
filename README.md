@@ -18,4 +18,4 @@ Username= Battle.Net (PC), Xbox Gamertag (Xbox), PSN Username (PSN)
 
 Gamemode = mp (Multiplayer), battle (Battle Royale) or plunder (Plunder)
 
-Command Example: .mwstats pc GenericUser#123 mp
+Command Example: mwstats pc GenericUser#123 mp
